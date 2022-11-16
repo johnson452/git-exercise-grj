@@ -98,3 +98,9 @@ cython_debug/
 
 # OSX
 .DS_Store
+
+# Ignore object files
+*.o
+*.obj
+*.object
+!important.obj

@@ -1,0 +1,20 @@
+total 152
+drwxr-xr-x  19 grant  staff    608 Nov 16 03:10 .
+drwxr-xr-x   3 grant  staff     96 Nov 16 02:42 ..
+-rw-r--r--   1 grant  staff    136 Nov 16 02:42 source.cpp
+-rw-r--r--   1 grant  staff   1060 Nov 16 03:08 old.o
+-rw-r--r--   1 grant  staff   1072 Nov 16 02:42 LICENSE
+-rw-r--r--   1 grant  staff     30 Nov 16 03:00 1668589234.object
+-rw-r--r--   1 grant  staff    118 Nov 16 02:42 information.txt
+-rw-r--r--   1 grant  staff    121 Nov 16 02:54 branch_data
+-rw-r--r--   1 grant  staff      0 Nov 16 03:10 current_files
+-rw-r--r--   1 grant  staff  11912 Nov 16 02:42 PU-standard.png
+-rw-r--r--   1 grant  staff    127 Nov 16 02:53 remote_data
+-rw-r--r--   1 grant  staff  11363 Nov 16 02:42 README.md
+-rw-r--r--   1 grant  staff     28 Nov 16 02:42 data.dat
+-rw-r--r--   1 grant  staff   1407 Nov 16 03:02 .gitignore
+-rw-r--r--   1 grant  staff    170 Nov 16 02:42 reset.sh
+drwxr-xr-x  15 grant  staff    480 Nov 16 03:09 .git
+-rw-r--r--   1 grant  staff     58 Nov 16 02:42 source.py
+-rw-r--r--   1 grant  staff     34 Nov 16 03:00 1668589228.obj
+-rw-r--r--   1 grant  staff     34 Nov 16 03:00 1668589205.o
