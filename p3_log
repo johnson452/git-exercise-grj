@@ -1,0 +1,37 @@
+To https://github.com/johnson452/git-exercise-grj
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/johnson452/git-exercise-grj'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+----
+From https://github.com/johnson452/git-exercise-grj
+   7005c67..dc74967  main       -> upstream/main
+Auto-merging source.py
+CONFLICT (content): Merge conflict in source.py
+Automatic merge failed; fix conflicts and then commit the result.
+----
+# This is the source code file
+a = 1 + 2.5
+b = -10
+print(a)
+print(b)
+----
+rebase in progress; onto dc74967
+You are currently rebasing branch 'main' on 'dc74967'.
+  (fix conflicts and then run "git rebase --continue")
+  (use "git rebase --skip" to skip this patch)
+  (use "git rebase --abort" to check out the original branch)
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+	both modified:   source.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	p3_log
+
+no changes added to commit (use "git add" and/or "git commit -a")

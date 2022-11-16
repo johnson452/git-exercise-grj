@@ -1,0 +1,24 @@
+* 642896f (HEAD -> main) Local commit
+* dc74967 (upstream/main, upstream/HEAD) Friend commit
+* 7005c67 Gitignore exercise part 4
+* 0c71923 Gitignore exercise part 3
+* 143e5d0 Gitignore exercise part 2
+* d9a2789 Gitignore exercise part 1
+* 3f5e2a0 Remote exercise
+* 606d0bf Rewrite README.md; add LICENSE
+*   32c66c1 Merge branch 'cpp' into main
+|\  
+| * 1f54cdc (upstream/cpp) Add source.cpp
+* | 0e38163 Touch up information.txt
+* |   717811d Merge branch 'python' into main
+|\ \  
+| |/  
+|/|   
+| * 245eaa2 (upstream/python) Add calculation to source.py
+| * 82e68c4 Fix typo in source.py
+| * 849cf4f Add source.py
+* | 3f3213f Add reset.sh
+|/  
+* 90ee3a5 Add gitignore
+* 6267065 Add miscellaneous files
+* 5d7f497 Initial commit
