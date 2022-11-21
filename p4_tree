@@ -1,0 +1,10 @@
+#Extra note: I needed to remove the "--all" flag to only show the recent history, this was a problem with using --root to change older history which just seems to slap the newer history on top of the older one.
+
+* 04f5ca3 (HEAD -> main) Answers from part 3
+* 642598d Answers from part 2
+* e32355a Remote exercise
+* 06db034 Add source.cpp, edit information.txt README.md
+* 1d8226c Add calculation to source.py
+* 5637bfd Add source.py and reset.sh
+* 5f24570 Add source.py
+* 4bf51f9 Intial Commit
